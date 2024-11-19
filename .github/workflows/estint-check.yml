@@ -1,0 +1,30 @@
+name: ESLint Check
+
+on:
+  pull_request:
+    branches:
+      - develop  # Chạy khi tạo PR vào develop
+      - testing
+
+jobs:
+  eslint-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Bước 1: Checkout code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Bước 2: Thiết lập Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22' # Hoặc phiên bản Node.js mà dự án sử dụng
+
+      # Bước 3: Cài đặt dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # Bước 4: Chạy ESLint
+      - name: Run ESLint
+        run: npx eslint "{src,apps,libs,test}/**/*.ts"
