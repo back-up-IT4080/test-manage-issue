@@ -91,7 +91,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## **Stakeholder Review (for MetaMask employees only)**
+        ## **Stakeholder Review **
 
   - type: checkboxes
     id: stakeholder-review
