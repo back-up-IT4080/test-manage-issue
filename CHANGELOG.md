@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/back-up-IT4080/test-manage-issue/compare/v1.0.1...v1.1.0) (2024-12-13)
+
+
+### Features
+
+* test releaase ([3f55e95](https://github.com/back-up-IT4080/test-manage-issue/commit/3f55e9526840aecfcc26371f9c6ddaa9cd367dc7))
 
 # [1.1.0-uat.1](https://github.com/back-up-IT4080/test-manage-issue/compare/v1.0.1-uat.1...v1.1.0-uat.1) (2024-12-13)
 
