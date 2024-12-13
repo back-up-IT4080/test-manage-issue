@@ -1,3 +1,10 @@
+# [1.0.0-uat.2](https://github.com/back-up-IT4080/test-manage-issue/compare/v1.0.0-uat.1...v1.0.0-uat.2) (2024-12-13)
+
+
+### Features
+
+* add release for main ([b88004b](https://github.com/back-up-IT4080/test-manage-issue/commit/b88004bce6edb7c90e87e370785b5c4f1ccecfa2))
+
 # 1.0.0-uat.1 (2024-12-13)
 
 
