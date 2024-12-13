@@ -1,0 +1,17 @@
+# 1.0.0-uat.1 (2024-12-13)
+
+
+### Bug Fixes
+
+* add release package ([77738c6](https://github.com/back-up-IT4080/test-manage-issue/commit/77738c6a0fab8a02236f5d3d36cdf1cc2eab3e6f))
+* change node version ([604e7cd](https://github.com/back-up-IT4080/test-manage-issue/commit/604e7cdb0c4ab955f5f4936893ef93e4202853c9))
+* test 2 ([14e2a09](https://github.com/back-up-IT4080/test-manage-issue/commit/14e2a0981583475c3b9f8d8555c0eeb09afefbef))
+* test remove from main ([572f180](https://github.com/back-up-IT4080/test-manage-issue/commit/572f1809385d5ea48a339679b9e16e9485449ba7))
+* test3 ([3a66278](https://github.com/back-up-IT4080/test-manage-issue/commit/3a66278fa59930819044193c6283961cf9c12ac1))
+* update cmd ([2444cf3](https://github.com/back-up-IT4080/test-manage-issue/commit/2444cf3b6198e627376526fd56096e6ae642aa6d))
+
+
+### Features
+
+* init commit ([7d91b43](https://github.com/back-up-IT4080/test-manage-issue/commit/7d91b43832b2fb81ad8c451d6c85c397021b8d20))
+* init nest project ([a9903ea](https://github.com/back-up-IT4080/test-manage-issue/commit/a9903ea8fcf77e7b4bcca2d03c1b5c734c07cd90))
