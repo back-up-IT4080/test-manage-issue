@@ -1,3 +1,15 @@
+# [1.1.0-uat.3](https://github.com/back-up-IT4080/test-manage-issue/compare/v1.1.0-uat.2...v1.1.0-uat.3) (2024-12-13)
+
+
+### Bug Fixes
+
+* remove wrong version variable ([8e7675c](https://github.com/back-up-IT4080/test-manage-issue/commit/8e7675c04444dabfd5c52f621f61f2a4a8326f80))
+
+
+### Features
+
+* add tag onchange uat ([b5622ea](https://github.com/back-up-IT4080/test-manage-issue/commit/b5622ea10334898167b0f3bb00d067594e5d96fc))
+
 # [1.1.0-uat.2](https://github.com/back-up-IT4080/test-manage-issue/compare/v1.1.0-uat.1...v1.1.0-uat.2) (2024-12-13)
 
 
