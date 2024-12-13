@@ -4,8 +4,7 @@
       "name": "uat",
       "prerelease": true,
       "npmPublish": false, 
-      "changelog": false, 
-      "tagFormat": "${version}"
+      "changelog": false
     },
     {
       "name": "main"
@@ -47,7 +46,8 @@
     [
       "@semantic-release/github",
       {
-        "assets": ["CHANGELOG.md"]
+        "assets": ["CHANGELOG.md"],
+        "branches": ["main"]
       }
     ]
   ]
