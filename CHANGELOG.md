@@ -1,3 +1,9 @@
+# [1.1.0-uat.2](https://github.com/back-up-IT4080/test-manage-issue/compare/v1.1.0-uat.1...v1.1.0-uat.2) (2024-12-13)
+
+
+### Bug Fixes
+
+* avoid change changelog in uat ([a39bff1](https://github.com/back-up-IT4080/test-manage-issue/commit/a39bff1aa57c601a82183d2b6d267b874053a0a2))
 
 # [1.1.0-uat.1](https://github.com/back-up-IT4080/test-manage-issue/compare/v1.0.1-uat.1...v1.1.0-uat.1) (2024-12-13)
 
