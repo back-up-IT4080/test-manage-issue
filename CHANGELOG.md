@@ -1,3 +1,10 @@
+# [1.0.0-uat.3](https://github.com/back-up-IT4080/test-manage-issue/compare/v1.0.0-uat.2...v1.0.0-uat.3) (2024-12-13)
+
+
+### Bug Fixes
+
+* add release github ([a472a11](https://github.com/back-up-IT4080/test-manage-issue/commit/a472a115bce05c3523ba7bed64013d5e754673e0))
+
 # [1.0.0-uat.2](https://github.com/back-up-IT4080/test-manage-issue/compare/v1.0.0-uat.1...v1.0.0-uat.2) (2024-12-13)
 
 
