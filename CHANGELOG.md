@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/back-up-IT4080/test-manage-issue/compare/v1.0.0...v1.0.1) (2024-12-13)
+
+
+### Bug Fixes
+
+* add auto release ([a050d0f](https://github.com/back-up-IT4080/test-manage-issue/commit/a050d0f3b7e41abe6e7a517c9f893fce5f762b23))
+* add release github ([a472a11](https://github.com/back-up-IT4080/test-manage-issue/commit/a472a115bce05c3523ba7bed64013d5e754673e0))
+
 # 1.0.0 (2024-12-13)
 
 ### Bug Fixes
